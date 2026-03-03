@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Pranav 
-**A Passionate AI/ML Developer with the ttributes of a vibecoder**
+**A Passionate AI/ML Developer with the atributes of a vibecoder**
 
 <p>
   <a href="https://linkedin.com/in/pranav-m-nair">
