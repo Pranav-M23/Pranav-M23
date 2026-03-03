@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-m23" alt="pranav-m23" /></a> </p>
 
-- 🔭 I’m currently working on [creating applications on AI/ML-SalesPulseAI,Car Diagnosis LLM,Deepfake Detective, AI-Based Seasonal Demand Forecaster](https://github.com/Pranav-M23/SalesPulseAI,https://github.com/Pranav-M23/Car_Assistant_LLM,https://github.com/Pranav-M23/Deepfake-Detective-Ai-Image-detector https://github.com/Pranav-M23/AI-Based-Seasonal-Demand-Forecaster-and-Inventory-Decision-Support-System)
+- 🔭 I’m currently working on **creating applications on AI/ML-SalesPulseAI,Car Diagnosis LLM,Deepfake Detective, AI-Based Seasonal Demand Forecaster**
 
 - 🌱 I’m currently learning **Advanced NLP & LLM Fine-tuning,Predictive Analytics for Demand Forecasting**
 
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-m23&show_icons=true&locale=en&layout=compact" alt="pranav-m23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-m23&show_icons=true&locale=en" alt="pranav-m23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-m23&" alt="pranav-m23" /></p>
